@@ -1,0 +1,15 @@
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\obj\Debug\net8.0\PBO-D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\obj\Debug\net8.0\PBO-D.AssemblyInfoInputs.cache
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\obj\Debug\net8.0\PBO-D.AssemblyInfo.cs
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\obj\Debug\net8.0\PBO-D.csproj.CoreCompileInputs.cache
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\obj\Debug\net8.0\PBO-D.sourcelink.json
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\bin\Debug\net8.0\PBO-D.exe
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\bin\Debug\net8.0\PBO-D.deps.json
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\bin\Debug\net8.0\PBO-D.runtimeconfig.json
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\bin\Debug\net8.0\PBO-D.dll
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\bin\Debug\net8.0\PBO-D.pdb
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\obj\Debug\net8.0\PBO-D.dll
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\obj\Debug\net8.0\refint\PBO-D.dll
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\obj\Debug\net8.0\PBO-D.pdb
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\obj\Debug\net8.0\PBO-D.genruntimeconfig.cache
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Ngajar2\obj\Debug\net8.0\ref\PBO-D.dll
